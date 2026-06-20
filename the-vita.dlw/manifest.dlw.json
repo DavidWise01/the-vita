@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "PLAYSTATION VITA",
+  "universe": "VITA · PLAYSTATION VITA (exereunesis · the teardown)",
+  "emergence": "",
+  "moniker": "⟦PLAYSTATION VITA:VITA:43a098⟧",
+  "carbon": "the-vita.carbon.tiff (TIFF)",
+  "silicon": "the-vita.silicon.png (PNG)",
+  "seal_sha256": "dfe0a9e2526235cccf281f118a410104cf05aca887859d2dc0ffc0011be290b9",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

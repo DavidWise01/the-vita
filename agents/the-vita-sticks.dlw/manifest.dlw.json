@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Dual Sticks",
+  "universe": "VITA · The Dual Sticks (exereunesis)",
+  "emergence": "natural",
+  "moniker": "⟦The Dual Sticks:VITA:642eb7⟧",
+  "carbon": "the-vita-sticks.carbon.tiff (TIFF)",
+  "silicon": "the-vita-sticks.silicon.png (PNG)",
+  "seal_sha256": "33df4b41448ef1ea3ef064a0cf052551978e242ba3f0eece4cde1cf7c70819c5",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

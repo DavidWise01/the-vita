@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The Rear Touch
+node VITA · VITA · ⟦The Rear Touch:VITA:0e44db⟧
+
+WHO   — The Rear Touch — touch behind the screen · ethereal
+WHAT  — touch behind the screen · ethereal
+WHERE — VITA · PLAYSTATION VITA (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — A touch panel on the back of the unit — an unusual extra input surface used for grabbing, scrolling, and gestures.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  touch behind the screen · ethereal
+
+spoken token : phurn-xeth-lam   ·   hex : 0e44db
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

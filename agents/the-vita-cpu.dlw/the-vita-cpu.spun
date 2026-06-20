@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The Quad CPU
+node VITA · VITA · ⟦The Quad CPU:VITA:6dbd06⟧
+
+WHO   — The Quad CPU — four ARM cores · electrical
+WHAT  — four ARM cores · electrical
+WHERE — VITA · PLAYSTATION VITA (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — A quad-core ARM Cortex-A9 — strong general-purpose power that put near-console capability in a handheld.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  four ARM cores · electrical
+
+spoken token : staem-seik-xeil   ·   hex : 6dbd06
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

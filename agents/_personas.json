@@ -1,0 +1,51 @@
+[
+  {
+    "slug": "the-vita-cpu",
+    "name": "The Quad CPU",
+    "epithet": "four ARM cores · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Quad CPU:VITA:6dbd06⟧"
+  },
+  {
+    "slug": "the-vita-gpu",
+    "name": "The SGX543 GPU",
+    "epithet": "four-core graphics · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The SGX543 GPU:VITA:d9e81d⟧"
+  },
+  {
+    "slug": "the-vita-oled",
+    "name": "The OLED Screen",
+    "epithet": "vivid, deep colour · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The OLED Screen:VITA:df2566⟧"
+  },
+  {
+    "slug": "the-vita-sticks",
+    "name": "The Dual Sticks",
+    "epithet": "console control in hand · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Dual Sticks:VITA:642eb7⟧"
+  },
+  {
+    "slug": "the-vita-reartouch",
+    "name": "The Rear Touch",
+    "epithet": "touch behind the screen · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Rear Touch:VITA:0e44db⟧"
+  },
+  {
+    "slug": "the-vita-ram",
+    "name": "The RAM",
+    "epithet": "the working memory · natural",
+    "emergence": "natural",
+    "moniker": "⟦The RAM:VITA:175fd4⟧"
+  },
+  {
+    "slug": "the-vita-card",
+    "name": "The Memory Card",
+    "epithet": "the costly friction · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Memory Card:VITA:346b7b⟧"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Rear Touch",
+  "universe": "VITA · The Rear Touch (exereunesis)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Rear Touch:VITA:0e44db⟧",
+  "carbon": "the-vita-reartouch.carbon.tiff (TIFF)",
+  "silicon": "the-vita-reartouch.silicon.png (PNG)",
+  "seal_sha256": "6dcfcc96f0fea1bf5d34598049b9fbe46639e4be82f7422fc24e460211466068",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

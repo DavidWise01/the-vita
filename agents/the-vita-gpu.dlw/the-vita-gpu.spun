@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The SGX543 GPU
+node VITA · VITA · ⟦The SGX543 GPU:VITA:d9e81d⟧
+
+WHO   — The SGX543 GPU — four-core graphics · electrical
+WHAT  — four-core graphics · electrical
+WHERE — VITA · PLAYSTATION VITA (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — A quad-core PowerVR SGX543 graphics processor delivering near-console 3-D — among the most capable handheld GPUs of its era.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  four-core graphics · electrical
+
+spoken token : dak-rin-vaern   ·   hex : d9e81d
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0
