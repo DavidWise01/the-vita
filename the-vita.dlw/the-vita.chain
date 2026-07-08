@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 854
+slug  : the-vita
+seal  : dfe0a9e2526235cccf281f118a410104cf05aca887859d2dc0ffc0011be290b9
+prev  : 2c7725a0ad80d8d0cd752f0c9ce478b074081323b3aa36718dd237a80c87153a
+link  : 1d5245e4414dded48ff977ed425120769830be3a7f686d4c67b63d009675f5f0
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
